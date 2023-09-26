@@ -31,3 +31,16 @@ D:\Developing\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net7.0\refint\Play
 D:\Developing\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net7.0\Play.Catalog.Service.pdb
 D:\Developing\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net7.0\Play.Catalog.Service.genruntimeconfig.cache
 D:\Developing\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net7.0\ref\Play.Catalog.Service.dll
+D:\Developing\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\Developing\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+D:\Developing\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net7.0\DnsClient.dll
+D:\Developing\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net7.0\MongoDB.Bson.dll
+D:\Developing\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net7.0\MongoDB.Driver.dll
+D:\Developing\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+D:\Developing\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+D:\Developing\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net7.0\SharpCompress.dll
+D:\Developing\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net7.0\Snappier.dll
+D:\Developing\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net7.0\ZstdSharp.dll
+D:\Developing\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+D:\Developing\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Developing\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
